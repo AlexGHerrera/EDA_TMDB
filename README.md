@@ -9,6 +9,12 @@ Descubre qué factores influyen en el éxito de taquilla, cómo evolucionan los 
 
 ---
 
+Proyecto personal desarrollado para mi portfolio profesional. Analizo el dataset de películas de TMDB aplicando técnicas de limpieza de datos, análisis exploratorio, visualización avanzada y machine learning. Incluye un dashboard interactivo en Streamlit con branding propio, filtros dinámicos y conclusiones accionables.
+
+Objetivo: Demostrar competencias en ciencia de datos, Python, visualización, comunicación de resultados y desarrollo de productos de datos interactivos, orientado a procesos de selección y networking profesional.
+
+---
+
 ## 🚀 Prueba el dashboard interactivo
 
 👉 **[Accede al dashboard en Streamlit](https://share.streamlit.io/AlexGHerrera/EDA_TMDB/main/Dashboard.py)**
