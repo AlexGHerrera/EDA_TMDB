@@ -17,7 +17,7 @@ Objetivo: Demostrar competencias en ciencia de datos, Python, visualización, co
 
 ## 🚀 Prueba el dashboard interactivo
 
-👉 **[Accede al dashboard en Streamlit](https://share.streamlit.io/AlexGHerrera/EDA_TMDB/main/Dashboard.py)**
+👉 **[Accede al dashboard en Streamlit](https://eda-mtmdb-dashboard-alexgherrera.streamlit.app)**
 
 Explora los datos, filtra por género, año y duración, y obtén insights clave de manera visual e intuitiva.
 
